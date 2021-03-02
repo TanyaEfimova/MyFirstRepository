@@ -10,3 +10,10 @@ My first repository on this GitHub account
 * Что такое Git
 * Что такое GitHub
 * Что такое Markdown
+* Что такое Commit
+
+### Что нам ещё следует изучить
+* Ветка (Branch)
+* Отправка в удалённый репозиторий (Push)
+* Обновление локального репозитория (Pull / Fetch)
+* Слияние (Merge)
